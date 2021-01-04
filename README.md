@@ -36,4 +36,4 @@ npm start
 npm run-script build
 ```
 
-Created by Rudolf Olah <rudolf.olah.to@gmail.com>
+
